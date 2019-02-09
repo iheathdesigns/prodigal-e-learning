@@ -1,0 +1,1 @@
+<div id="sidebar"><?php include('nav2.php');?></div>

@@ -1,0 +1,1 @@
+<center><div id="footer">&copy;Ian Heath 2012. All Rights Reserved.</div></center>
